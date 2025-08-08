@@ -6,5 +6,5 @@ este site é baseado no site feito poe um dos meus professores e tem como foco p
 nomeado de *IOT-KIT*. Ele é desenvolvido principalmente em react.
 
 ## Bibliotecas utilizadas
-1.Tailwind
-2.Mui Material
+1. Tailwind
+2. Mui Material
