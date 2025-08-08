@@ -14,14 +14,14 @@ export default function App() {
       </header>
       <main>
         <section id='apresentacao' className='w-full h-[70vh] bg-green-600 flex'>
-          <div className='bg-white h-full grow-1 flex justify-center items-center rounded-l-none rounded-r-full'>
+          <div className='bg-white h-full w-full flex justify-center items-center rounded-l-none rounded-r-full'>
             <img src="public\IOT_KIT_svg.svg" alt="" className='w-[30%]' />
           </div>
-          <div className='grow-1 h-full flex justify-left items-center flex-col text-white text-left'>
-            <div>
+          <div className='w-40% h-full flex justify-left items-center flex-col text-white text-left'>
+            <div className='items-center h-full w-full flex-col p-4'>
               <h1 className='text-bold text-[48px]'>Conheça o IOT-KIT!</h1>
               <h2 className='text-bold text-[35px]'>O IOT multiuso do SENAI</h2>
-              <p className='w-[20vw] text-[30px]'>
+              <p className='w-[90%] text-[30px]'>
                 IOT-KIT é uma placa com um microcontrolador 
                 ESP-32 criada com objetivo de ensinar IOT na prática,
                 de forma simples e direta!
