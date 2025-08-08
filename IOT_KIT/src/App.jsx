@@ -7,9 +7,9 @@ export default function App() {
     <>
       <header className='w-full h-[10vh] bg-green-800 flex justify-around items-center'>
         <ButtonGroup variant="contained" color="inherit" aria-label="">
-          <Button>Sobre nós</Button>
           <Button>Sobre o projeto</Button>
           <Button>Porque IOT-KIT?</Button>
+          <Button>Sobre nós</Button>
         </ButtonGroup>
       </header>
       <main>
